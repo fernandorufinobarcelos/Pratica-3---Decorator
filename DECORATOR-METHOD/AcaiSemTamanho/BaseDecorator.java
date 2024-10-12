@@ -1,4 +1,5 @@
 package AcaiSemTamanho;
+
 public class BaseDecorator implements Adicional{
     protected Adicional wrappee;
     
