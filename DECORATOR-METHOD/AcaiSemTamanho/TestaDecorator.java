@@ -1,5 +1,4 @@
 package AcaiSemTamanho;
-
 public class TestaDecorator {
     public static void main(String[] args) {
         Adicional acaiBasico = new Acai();
