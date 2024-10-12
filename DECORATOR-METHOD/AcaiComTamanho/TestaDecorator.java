@@ -1,6 +1,5 @@
 package AcaiComTamanho;
 
-
 public class TestaDecorator {
     public static void main(String[] args) {
         System.out.println("Açao Basico Pequeno");
